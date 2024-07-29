@@ -36,6 +36,6 @@
 
 9. [Robert Mecklenburg / Managing Projects with GNU Make / O'Reilly Media / 2004](https://book.douban.com/subject/1850994/)
 
- 10.[Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces. Arpaci-Dusseau Books, 2018]
+ 10.[Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. Operating Systems: Three Easy Pieces. Arpaci-Dusseau Books, 2018](https://book.douban.com/subject/19973015/)
 
  11.[Randal E. Bryant and David R. O'Hallaron. Computer Systems: A Programmer's Perspective (3ed). Pearson, 2017]
