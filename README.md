@@ -1,3 +1,3 @@
 # Ylos - 操作系统实现
 
-![](./docs/images/sheell.png)
+![](docs/images/sheell.png)
