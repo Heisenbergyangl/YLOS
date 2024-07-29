@@ -1,4 +1,4 @@
-# Ylos - 操作系统实现
+# YLOS - 操作系统实现
 
 ![](./docs/images/shell.png)
 
@@ -7,15 +7,6 @@
 ## 参考网页
 
 1. <https://wiki.osdev.org>
-
-    这里有你想要的几乎一切！！！
-
-## 参考视频
-1. [jyy的操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=2237004)
-2. [xv6的操作系统讲解](https://www.bilibili.com/video/BV1rS4y1n7y1/?spm_id_from=333.337.search-card.all.click&vd_source=d781d34258afada97db0a93aaddbb9b4)
-3. [B站up主的操作系统](https://www.bilibili.com/video/BV1gR4y1u7or/?spm_id_from=333.337.search-card.all.click&vd_source=d781d34258afada97db0a93aaddbb9b4)
-4. [c语言的学习视频](https://www.bilibili.com/video/BV1oi4y1g7CF/?spm_id_from=333.999.0.0&vd_source=d781d34258afada97db0a93aaddbb9b4)
-5. [汇编语言的学习](https://www.bilibili.com/video/BV1mt411R7Xv/?spm_id_from=333.999.0.0&vd_source=d781d34258afada97db0a93aaddbb9b4)
 
 ## 参考项目
 
